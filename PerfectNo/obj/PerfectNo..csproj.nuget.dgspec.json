@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abhis\\source\\repos\\Fibnoci\\Fibnoci\\Fibnoci.csproj": {}
+    "C:\\Users\\abhis\\source\\repos\\PerfectNo\\PerfectNo\\PerfectNo..csproj": {}
   },
   "projects": {
-    "C:\\Users\\abhis\\source\\repos\\Fibnoci\\Fibnoci\\Fibnoci.csproj": {
+    "C:\\Users\\abhis\\source\\repos\\PerfectNo\\PerfectNo\\PerfectNo..csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\Fibnoci\\Fibnoci\\Fibnoci.csproj",
-        "projectName": "Fibnoci",
-        "projectPath": "C:\\Users\\abhis\\source\\repos\\Fibnoci\\Fibnoci\\Fibnoci.csproj",
+        "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\PerfectNo\\PerfectNo\\PerfectNo..csproj",
+        "projectName": "PerfectNo.",
+        "projectPath": "C:\\Users\\abhis\\source\\repos\\PerfectNo\\PerfectNo\\PerfectNo..csproj",
         "packagesPath": "C:\\Users\\abhis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abhis\\source\\repos\\Fibnoci\\Fibnoci\\obj\\",
+        "outputPath": "C:\\Users\\abhis\\source\\repos\\PerfectNo\\PerfectNo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abhis\\AppData\\Roaming\\NuGet\\NuGet.Config",
