@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\PerfectNo\\PerfectNo\\PerfectNo..csproj",
-      "projectName": "PerfectNo.",
-      "projectPath": "C:\\Users\\abhis\\source\\repos\\PerfectNo\\PerfectNo\\PerfectNo..csproj",
+      "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\PrimeNo\\PrimeNo\\PrimeNo..csproj",
+      "projectName": "PrimeNo.",
+      "projectPath": "C:\\Users\\abhis\\source\\repos\\PrimeNo\\PrimeNo\\PrimeNo..csproj",
       "packagesPath": "C:\\Users\\abhis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abhis\\source\\repos\\PerfectNo\\PerfectNo\\obj\\",
+      "outputPath": "C:\\Users\\abhis\\source\\repos\\PrimeNo\\PrimeNo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abhis\\AppData\\Roaming\\NuGet\\NuGet.Config",
