@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Fibnoci/1.0.0": {
+      "PerfectNo./1.0.0": {
         "runtime": {
-          "Fibnoci.dll": {}
+          "PerfectNo..dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Fibnoci/1.0.0": {
+    "PerfectNo./1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
