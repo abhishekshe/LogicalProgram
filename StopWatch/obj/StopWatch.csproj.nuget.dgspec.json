@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abhis\\source\\repos\\Coupon\\Coupon\\Coupon.csproj": {}
+    "C:\\Users\\abhis\\source\\repos\\StopWatch\\StopWatch\\StopWatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abhis\\source\\repos\\Coupon\\Coupon\\Coupon.csproj": {
+    "C:\\Users\\abhis\\source\\repos\\StopWatch\\StopWatch\\StopWatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\Coupon\\Coupon\\Coupon.csproj",
-        "projectName": "Coupon",
-        "projectPath": "C:\\Users\\abhis\\source\\repos\\Coupon\\Coupon\\Coupon.csproj",
+        "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\StopWatch\\StopWatch\\StopWatch.csproj",
+        "projectName": "StopWatch",
+        "projectPath": "C:\\Users\\abhis\\source\\repos\\StopWatch\\StopWatch\\StopWatch.csproj",
         "packagesPath": "C:\\Users\\abhis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abhis\\source\\repos\\Coupon\\Coupon\\obj\\",
+        "outputPath": "C:\\Users\\abhis\\source\\repos\\StopWatch\\StopWatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abhis\\AppData\\Roaming\\NuGet\\NuGet.Config",
