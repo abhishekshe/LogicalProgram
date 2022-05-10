@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\ReverseNo\\ReverseNo\\ReverseNo.csproj",
-      "projectName": "ReverseNo",
-      "projectPath": "C:\\Users\\abhis\\source\\repos\\ReverseNo\\ReverseNo\\ReverseNo.csproj",
+      "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\Coupon\\Coupon\\Coupon.csproj",
+      "projectName": "Coupon",
+      "projectPath": "C:\\Users\\abhis\\source\\repos\\Coupon\\Coupon\\Coupon.csproj",
       "packagesPath": "C:\\Users\\abhis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abhis\\source\\repos\\ReverseNo\\ReverseNo\\obj\\",
+      "outputPath": "C:\\Users\\abhis\\source\\repos\\Coupon\\Coupon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abhis\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "ReverseNo/1.0.0": {
+      "Coupon/1.0.0": {
         "runtime": {
-          "ReverseNo.dll": {}
+          "Coupon.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ReverseNo/1.0.0": {
+    "Coupon/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
