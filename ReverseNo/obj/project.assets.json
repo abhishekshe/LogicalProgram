@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\PrimeNo\\PrimeNo\\PrimeNo..csproj",
-      "projectName": "PrimeNo.",
-      "projectPath": "C:\\Users\\abhis\\source\\repos\\PrimeNo\\PrimeNo\\PrimeNo..csproj",
+      "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\ReverseNo\\ReverseNo\\ReverseNo.csproj",
+      "projectName": "ReverseNo",
+      "projectPath": "C:\\Users\\abhis\\source\\repos\\ReverseNo\\ReverseNo\\ReverseNo.csproj",
       "packagesPath": "C:\\Users\\abhis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abhis\\source\\repos\\PrimeNo\\PrimeNo\\obj\\",
+      "outputPath": "C:\\Users\\abhis\\source\\repos\\ReverseNo\\ReverseNo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abhis\\AppData\\Roaming\\NuGet\\NuGet.Config",
